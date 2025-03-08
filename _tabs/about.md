@@ -13,12 +13,12 @@ comments: false
 
 ## **[ CONTACT ]**
 --------------------
-**Adress:** Seoul, Republic of Korea<br>
-**E-mail:** jaebin0815@gmail.com<br>
+**Adress**: Seoul, Republic of Korea<br>
+**E-mail**: jaebin0815@gmail.com<br>
 
 <br>
 
-## **[ WORK EXPERIENCE ]**
+## **[ EXPERIENCE ]**
 ----------------------------
 #### **Jul. 2024 - Feb. 2025**
 ##### **Electronics Engineer**
@@ -39,6 +39,14 @@ Work-Learning Dual System Training Center
 ##### **Intern**
 ***DL E&C Co.,Ltd.*** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Seoul, Republic of Korea<br>
 Department of Plant - Process Engineering Team
+
+#### **May. 2021 - Nov. 2022**
+##### **Sergeant**
+***Republic of Korea Marine Corps*** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Pohang-si, Gyeongsangbuk-do, Republic of Korea<br>
+Reconnaissance Unit<br>
+**Airborne**: 248th<br>
+**Force Recon**: 104th
+
 
 #### **Jul. 2020 - Aug. 2020**
 ##### **Intern**
