@@ -1,0 +1,45 @@
+[Git Commit Message]
+
+- ⚙️ Test & Default Settings
+ex) ⚙️ Test: TestDetail
+
+
+- 🛠️ FEAT: 새로운 기능 추가
+ex) 🛠️ FEAT: NewFeatureName
+
+
+- 🦋 FIX: 버그 수정
+ex) 🦋 FIX: BugName
+
+
+- 📝 DOCS: 문서 수정
+	- Posting
+		- 제목		//작성하기
+	- Update
+		- Title, Description, Date, Author, Categories, Tages, Image
+		- BodyText
+		- About
+ex) 📝 DOCS: Posting "제목"
+ex) 📝 DOCS: Update BodyText
+
+
+- STYLE: 코드 정렬 및 구조화 (코드 포맷팅 - 변화 TRUE)
+
+
+- 🎨 DESIGN: 사용자 UI 디자인 변경 (CSS)
+ex) 🎨 DESIGN: DesignDetail
+
+
+- REFACTOR: 결과의 변경 없이 코드의 구조를 재조정 (리팩터링 - 변화 FALSE)
+
+
+- 🔄️ RENAME: 파일 또는 폴더명 수정
+ex) 🔄️ RENAME: BeforeName to AfterName 	// 확장자까지 작성
+
+
+- ❌ REMOVE: 파일 또는 폴더 삭제
+ex) ❌ REMOVE: Name				// 확장자까지 작성
+
+
+
+※ 코드 포맷팅 vs 리팩터링 차이점은..?

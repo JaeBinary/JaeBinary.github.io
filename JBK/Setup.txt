@@ -1,0 +1,7 @@
+[Setting]
+
+> ruby -v
+> ruby 3.3.6
+
+> bundler -v
+> Bundler version 2.6.5

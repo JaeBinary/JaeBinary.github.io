@@ -1,0 +1,38 @@
+[Git Bash]
+$ bundle
+$ bundle exec jekyll serve
+
+[chirpy-starter 초기설정]
+
+1) _config.yml
+	- lang (언어 설정)
+	- timezone (시간 설정)
+	- title (사이드바 상단 / 탭 이름)
+	- tagline (title 밑에 부제)
+	- description (SEO 키워드: 구글 검색에 어떤 키워드로 내 블로그를 검색하게 할 것인가)
+	- url (블로그 URL 주소)
+	- github (사이드바 하단 깃허브 링크)
+	- theme_mode (테마 설정)
+	- avatar (사이드바 최상단 / 이미지)
+
+2) _data
+	- authors.yml (게시글 상단 저자)
+	- contact.yml (사이드바 하단 아이콘)
+	- share.yml (게시글 하단 공유)
+
+3) _posts
+	- title (제목)
+	- date (일자 및 일시)
+	- categories (최대 2개)
+	- tags (무한대)
+	- description (부제목)
+
+5) assets/img
+	- favicons (파비콘 이미지 파일)
+	- post (그 외 이미지 파일)
+
+6) _tabs
+	- about.md (자기소개)
+
+7) .jekyll-cache \ Jekyll \ Cache \ Jekyll--Converters--Markdown
+	- 수정할 때마다 남는 로그인가.?
