@@ -30,7 +30,7 @@ ex) 📝 DOCS: Update BodyText
 ex) 🎨 DESIGN: DesignDetail
 
 
-- REFACTOR: 결과의 변경 없이 코드의 구조를 재조정 (리팩터링 - 변화 FALSE)
+- 🪄 REFACTOR: 결과의 변경 없이 코드의 구조를 재조정 (리팩터링 - 변화 FALSE)
 
 
 - 🔄️ RENAME: 파일 또는 폴더명 수정
