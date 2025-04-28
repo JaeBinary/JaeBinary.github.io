@@ -21,15 +21,15 @@ Python 3.13.3 documentation
 [Python 썸네일 다운로드](/assets/img/post/Python-Tutorial/main.png)
 
 ```
-1.  Whetting Your Appetite
-2.  Using the Python Interpreter
-3.  An Informal Introduction to Python
-4.  More Control Flow Tools
-5.  Data Structures
-6.  Modules
-7.  Input and Output
-8.  Errors and Exceptions
-9.  Classes
+01.  Whetting Your Appetite
+02.  Using the Python Interpreter
+03.  An Informal Introduction to Python
+04.  More Control Flow Tools
+05.  Data Structures
+06.  Modules
+07.  Input and Output
+08.  Errors and Exceptions
+09.  Classes
 10. Brief Tour of the Standard Library — Part I
 11. Brief Tour of the Standard Library — Part II
 12. Virtual Environments and Packages
@@ -39,15 +39,15 @@ Python 3.13.3 documentation
 16. Appendix
 ```
 ```
-1.  입맛 돋우기
-2.  파이썬 인터프리터 사용하기
-3.  파이썬의 간략한 소개
-4.  기타 제어 흐름 도구
-5.  자료 구조
-6.  모듈
-7.  입력과 출력
-8.  에러와 예외
-9.  클래스
+01.  입맛 돋우기
+02.  파이썬 인터프리터 사용하기
+03.  파이썬의 간략한 소개
+04.  기타 제어 흐름 도구
+05.  자료 구조
+06.  모듈
+07.  입력과 출력
+08.  에러와 예외
+09.  클래스
 10. 표준 라이브러리 둘러보기 - 1부
 11. 표준 라이브러리 둘러보기 — 2부
 12. 가상 환경 및 패키지
