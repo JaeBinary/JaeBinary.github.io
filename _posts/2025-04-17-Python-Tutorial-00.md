@@ -6,7 +6,7 @@ date: 2025-04-17 00:00:00 +0900
 author: JBK
 categories: [Python, Tutorial]
 tags: [Python]
-image: /assets/img/post/Python-Tutorial/main.png
+image: /assets/img/post/Python-Tutorial/00/Thumbnail.png
 ---
 
 [Python.org](https://www.python.org)
@@ -53,6 +53,6 @@ Python 3.13.3 documentation
 12. 가상 환경 및 패키지
 13. 이제 뭘 하지?
 14. 대화형 입력 편집 및 히스토리 치환
-15. Floating-Point Arithmetic: Issues and Limitations
+15. 부동 소수점 산술: 문제점 및 제한 사항
 16. 부록
 ```
