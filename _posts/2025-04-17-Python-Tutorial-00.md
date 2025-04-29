@@ -10,6 +10,7 @@ image: /assets/img/post/Python-Tutorial/00/Thumbnail.png
 ---
 
 [Python.org](https://www.python.org)
+
 [Python Docs](https://docs.python.org/3)
 
 Docs by version 선택하기
