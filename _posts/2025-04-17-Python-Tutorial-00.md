@@ -21,15 +21,15 @@ Python 3.13.3 documentation
 [Python 썸네일 다운로드](/assets/img/post/Python-Tutorial/main.png)
 
 ```
-01.  Whetting Your Appetite
-02.  Using the Python Interpreter
-03.  An Informal Introduction to Python
-04.  More Control Flow Tools
-05.  Data Structures
-06.  Modules
-07.  Input and Output
-08.  Errors and Exceptions
-09.  Classes
+01. Whetting Your Appetite
+02. Using the Python Interpreter
+03. An Informal Introduction to Python
+04. More Control Flow Tools
+05. Data Structures
+06. Modules
+07. Input and Output
+08. Errors and Exceptions
+09. Classes
 10. Brief Tour of the Standard Library — Part I
 11. Brief Tour of the Standard Library — Part II
 12. Virtual Environments and Packages
