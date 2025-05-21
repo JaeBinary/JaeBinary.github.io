@@ -20,6 +20,11 @@ comments: false
 
 ## **[ EXPERIENCE ]**
 ----------------------------
+#### **Apr. 2025 - Present**
+##### **Assistant**
+***Daelim University College*** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Republic of Korea<br>
+Department of AI Systems
+
 #### **Jul. 2024 - Feb. 2025**
 ##### **Electronics Engineer**
 ***Co.,Ltd. Daelim E&I*** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Anyang-si, Gyeonggi-do, Repulic of Korea<br>
