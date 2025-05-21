@@ -6,7 +6,11 @@ date: 2025-04-17 00:00:00 +0900
 author: JBK
 categories: [Python, Tutorial]
 tags: [Python]
+<<<<<<< Updated upstream
 image: /assets/img/post/Python-Tutorial/00/Thumbnail.png
+=======
+image: /assets/img/post/Python-Tutorial/Python.png
+>>>>>>> Stashed changes
 ---
 
 [Python.org](https://www.python.org)
